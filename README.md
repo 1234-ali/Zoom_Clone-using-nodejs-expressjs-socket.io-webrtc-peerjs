@@ -4,7 +4,7 @@ steps:
 
 1) clone the repository.
 
-2} install nodemodules (npm install).
+2) install nodemodules (npm install).
 
 3) start the server (npm start).
 
